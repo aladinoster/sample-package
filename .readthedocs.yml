@@ -8,8 +8,11 @@ conda:
   environment: conda/env.yaml
 
 python:
-  version: 3.8
+  version: 3.9
   install:
     # install symupy itself
     - method: pip
       path: .
+
+build:
+  image: testing
