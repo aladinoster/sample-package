@@ -35,7 +35,8 @@ extensions = [
     "sphinx.ext.napoleon",
     "sphinx.ext.autodoc",
     "sphinx.ext.viewcode",
-    "recommonmark",
+    "myst_parser",
+    #"recommonmark",
     # "sphinx_book_theme",
 ]
 

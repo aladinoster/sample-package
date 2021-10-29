@@ -10,7 +10,7 @@ Welcome to sample_pkg's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   .. mdinclude:: ../../README.md
+   README.md
 
 .. toctree::
    :maxdepth: 1
